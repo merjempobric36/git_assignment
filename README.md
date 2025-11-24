@@ -3,7 +3,7 @@ This is the main branch line (HOTFIX)
 ## Assignment Screenshots
 
 ### Phase 1: Local Repository Initialization and Initial Commit
-![Screenshot 1](screenshots/screenshot_1.png)
+![Screenshot 1](screenshots/screenshot_1.jpg)
 ![Screenshot 2](screenshots/screenshot_2.png)
 ![Screenshot 3](screenshots/screenshot_3.png)
 ![Screenshot 4](screenshots/screenshot_4.png)
