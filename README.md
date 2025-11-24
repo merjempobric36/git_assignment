@@ -1,1 +1,1 @@
-This is the main branch line (HOTFIX)
+Final merged line combining both changes
